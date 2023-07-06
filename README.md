@@ -8,7 +8,7 @@ cd packages
 ```
 Install bcftools
 ```shell
-wget wget https://sourceforge.net/projects/samtools/files/samtools/1.9/bcftools-1.9.tar.bz2
+wget https://sourceforge.net/projects/samtools/files/samtools/1.9/bcftools-1.9.tar.bz2
 tar -xvf bcftools-1.9.tar.bz2
 cd bcftools-1.9/
 ./configure --prefix=/share/pub/likai/Star_protocols/software/bcftools-1.9
@@ -16,7 +16,7 @@ make && make install
 ```
 Install samtools
 ```shell
-wget wget https://sourceforge.net/projects/samtools/files/samtools/1.9/samtools-1.9.tar.bz2
+wget https://sourceforge.net/projects/samtools/files/samtools/1.9/samtools-1.9.tar.bz2
 tar -xvf samtools-1.9.tar.bz2
 cd samtools-1.9/
 ./configure --prefix=/share/pub/likai/Star_protocols/software/samtools-1.9
