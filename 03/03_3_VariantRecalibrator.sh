@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 
 
-cd /share/pub/lik/lik/Star_protocols
 software/gatk-4.0.11.0/gatk --java-options "-Xmx248g" VariantRecalibrator -R ref/ucsc.no_hap.hg19.fa \
 -V 03_combine/cohort.miss0.1.vcf -resource:hapmap,known=false,training=true,truth=true,prior=15.0 ref/hapmap_3.3.hg19.sites.vcf \
 -resource:omni,known=false,training=true,truth=true,prior=12.0 ref/1000G_omni2.5.hg19.sites.vcf \
