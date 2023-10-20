@@ -1,4 +1,4 @@
-MAGICpipeline
+## MAGICpipeline ##
 
 <div align=center>
 <img src="https://github.com/sulab-wmu/MAGIC/blob/main/pic/MAGIC.jpg" width="350" height="140"/>
