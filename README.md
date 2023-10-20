@@ -8,5 +8,6 @@ Whole-exome Sequencing (WES) is a major approach to uncovering gene-disease asso
 
 Manuscript for MAGICpipeline:  
 
-We also provide a step-by-step tutorial for you to walk through the MAGICpipeline
-If you have any questions using our toolkits, please reach out via likai@ucas.ac.cn and yuanjian0415@gmail.com.
+We also provide a step-by-step tutorial for you to walk through the MAGICpipeline.
+
+If you have any questions using our toolkits, please reach out via <likai@ucas.ac.cn> and <yuanjian0415@gmail.com>.
