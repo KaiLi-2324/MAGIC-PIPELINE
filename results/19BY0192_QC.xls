@@ -1,0 +1,29 @@
+Sample	19BY0192
+Clean bases	7512195600
+Clean reads	50081304
+Mapped reads	49902982(99.64%)
+Duplicate reads	8891772(17.82%)
+Unique reads	41011210(82.18%)
+Reads uniquely mapped to target	31888891
+Reads uniquely mapped to genome	37979594
+Total bases on target	56628139
+Total bases near target	79327368
+Total sequences on target(Mb)	3581.93
+Total sequences near target(Mb)	1420.22
+Total effective yield(Mb)	5742.35
+Fraction of effective bases on target	62.38%
+Fraction of effective bases on or near target	87.11%
+Fraction of uniquely mapped on target	83.96%
+Average sequencing depth on target	63.25
+Average sequencing depth near target	17.90
+Average insert size of the library	238.09
+Base covered on target	56610099
+Coverage of target region	99.97%
+Base covered near target	78651623
+Coverage of near target	99.1%
+Mismatch rate in target	0.32%
+Mismatch rate in total	0.29%
+Fraction of target covered at least 4x	99.94%
+Fraction of target covered at least 10x	99.86%
+Fraction of target covered at least 20x	98.81%
+Fraction of target covered at least 50x	66.85%
