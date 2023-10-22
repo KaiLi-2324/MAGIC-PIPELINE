@@ -148,8 +148,8 @@ colnames(MEs_col) = paste0("ME", labels2colors(
   as.numeric(str_replace_all(colnames(MEs),"ME",""))))
 MEs_col = orderMEs(MEs_col)
 
-# 根据基因间表达量进行聚类所得到的各模块间的相关性图
-# marDendro/marHeatmap 设置下、左、上、右的边距
+# Correlation diagram between modules obtained by clustering according to expression levels between genes
+# marDendro/marHeatmap Set bottom, left, top and right margins
 plotEigengeneNetworks(MEs_col, "Eigengene adjacency heatmap", 
                       marDendro = c(3,3,2,4),
                       marHeatmap = c(3,4,2,2), plotDendrograms = T, 
