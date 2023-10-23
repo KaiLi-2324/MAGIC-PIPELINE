@@ -8,4 +8,4 @@
 
 **[We also provide a step-by-step tutorial for you to walk through the MAGICpipeline.](https://github.com/sulab-wmu/MAGIC-PIPELINE/blob/main/Magic_pipeline.md)**
 
-If you have any questions using our toolkits, please reach out via <likai@ucas.ac.cn> and <yuanjian0415@gmail.com>.
+If you have any questions using our toolkits, please reach out via <kaili22225@gmail.com> and <yuanjian0415@gmail.com>.
