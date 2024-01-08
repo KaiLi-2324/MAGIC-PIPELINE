@@ -8,4 +8,5 @@
 
 **[We also provide a step-by-step tutorial for you to walk through the MAGICpipeline.](https://github.com/sulab-wmu/MAGIC-PIPELINE/blob/main/Magic_pipeline.md)**
 
-If you use our pipeline in your projects, please cite **Yuan J, Li K, Peng H, Zhang Y, Yao Y; Myopia Associated Genetics and Intervention Consortium; Qu J, Su J. Protocol for detecting rare and common genetic associations in whole-exome sequencing studies using MAGICpipeline. STAR Protoc. 2024 Jan 2;5(1):102806. doi: 10.1016/j.xpro.2023.102806. Epub ahead of print. PMID: 38175747**. If you have any questions, please reach out via <kaili22225@gmail.com> and <yuanjian0415@gmail.com>.
+If you use our pipeline in your projects, please cite **Yuan J, Li K, Peng H, et al. Protocol for detecting rare and common genetic associations in whole-exome
+sequencing studies using MAGICpipeline[J]. STAR Protocols, 2024, 5(1): 102806.**. If you have any questions, please reach out via <kaili22225@gmail.com> and <yuanjian0415@gmail.com>.
